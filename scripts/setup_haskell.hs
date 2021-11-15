@@ -1,7 +1,7 @@
 #!/usr/bin/env stack
 {- stack
   script
-  --resolver lts-14.12
+  --resolver lts-18.17
   --package aeson
   --package ansi-terminal
   --package directory
